@@ -1,0 +1,12 @@
+{
+  "name": "thugprosoundtrack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "pkg index.js -o \"THUG Pro Soundtrack Generator\" -t linux,macos,win"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
