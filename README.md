@@ -1,5 +1,7 @@
 # THUG PRO SOUNDTRACK GENERATOR
 
+![](https://i.imgur.com/yjR8ZFe.png)
+
 This program takes in a directory of music files and generates a .sound.json file based on the name, to be used as a THUG Pro soundtrack.
 
 ## Usage Instructions
