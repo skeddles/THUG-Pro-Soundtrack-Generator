@@ -4,6 +4,8 @@
 
 This program takes in a directory of music files and generates a .sound.json file based on the name, to be used as a THUG Pro soundtrack.
 
+[thpsx thread](http://thpsx.com/forums/index.php?topic=1071.msg7920)
+
 ## Usage Instructions
 
 1. Download the latest exe file
@@ -17,7 +19,7 @@ This program takes in a directory of music files and generates a .sound.json fil
 
 For you songs to work in game they must be .bik files. 
 
-1. Download RAD Video Tools and install it
+1. Download [RAD Video Tools](http://www.radgametools.com/bnkdown.htm) and install it
 2. Open RAD Video Tools
 3. Select one or more mp3 files
 4. Click Bink it! at the bottom, click yes to the batch process prompt
@@ -26,6 +28,8 @@ For you songs to work in game they must be .bik files.
 7. Click Batch on the right
 
 If your songs come out really small (like 10kb instead of 10mb), then something went wrong and they wont work in game. Re-encoding the MP3 file usually works. You can do this manually with the freeware Audacity, or you can use dBpoweramp Music Converter to reencode them as a batch.
+
+Your songs must be named with the artist and song name, separated by a dash. If yours aren't, you can rename the MP3s using [MP3Tag](https://www.mp3tag.de/en/).
 
 ## Getting them in game
 
